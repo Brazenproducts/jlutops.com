@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://jlutops.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://jlutops.com/best-jeep-wrangler-jlu-tops.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jlutops.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jlutops.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jlutops.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jlutops.com/jlutops-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jlutops.com/how-to-choose-jlutops-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jlutops.com/jlutops-what-wed-buy-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jlutops.com/jlutops-quality-vs-marketing.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://jlutops.com/no-bs-jlutops-guide-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://jlutops.com/jlutops-explained-2026.html</loc><lastmod>2026-05-20</lastmod></url>
-  <url><loc>https://jlutops.com/jlutops-buyers-handbook-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://jlutops.com/jlutops-tested-ranked-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://jlutops.com/best-jlutops-2026.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://jlutops.com/best-jlutops-without-overpaying.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://jlutops.com/how-to-pick-jlutops-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://jlutops.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
